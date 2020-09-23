@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/twitter",
+    "name": "codica-studio/twitter",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/twitter",
+    "homepage": "https://github.com/codica-studio/twitter",
     "license": "MIT",
     "authors": [
         {
