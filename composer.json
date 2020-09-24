@@ -1,5 +1,5 @@
 {
-    "name": "codica-studio/twitter",
+    "name": "codicastudio/twitter",
     "description": "A random Codica Studio package.",
 
     "homepage": "https://github.com/codicastudio/twitter",
@@ -34,7 +34,7 @@
     "scripts": {
         "test": "vendor/bin/phpunit"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "config": {
         "sort-packages": true
